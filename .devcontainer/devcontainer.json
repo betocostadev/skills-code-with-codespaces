@@ -15,5 +15,6 @@
          ]
      },
     "remoteUser": "codespace",
-    "overrideCommand": false
+    "overrideCommand": false,
+    "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
 }
