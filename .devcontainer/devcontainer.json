@@ -1,11 +1,14 @@
 {
     // Copilot in Codespace
     "name": "Codespace for Skills!",
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
     "customizations": {
         "vscode": {
             "extensions": [
                 "GitHub.copilot"
             ]
         }
-    }
+    },
+    "remoteUser": "codespace",
+    "overrideCommand": false
 }
