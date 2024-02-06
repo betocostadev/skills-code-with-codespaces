@@ -9,6 +9,11 @@
             ]
         }
     },
+    "codespaces": {
+         "openFiles": [
+             "codespace.md"
+         ]
+     },
     "remoteUser": "codespace",
     "overrideCommand": false
 }
