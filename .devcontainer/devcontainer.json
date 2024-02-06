@@ -7,13 +7,13 @@
             "extensions": [
                 "GitHub.copilot"
             ]
-        }
+        },
+        "codespaces": {
+            "openFiles": [
+                "codespace.md"
+            ]
+        },
     },
-    "codespaces": {
-         "openFiles": [
-             "codespace.md"
-         ]
-     },
     "remoteUser": "codespace",
     "overrideCommand": false,
     "postCreateCommand": "echo '# Writing code upon codespace creation!'  >> codespace.md"
